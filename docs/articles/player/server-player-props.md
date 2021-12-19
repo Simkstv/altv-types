@@ -324,7 +324,7 @@ Used to **get** the current seat that the player is in.
 
 ```js
 if (player.vehicle && player.seat === -1) {
-    alt.log(`Player is in the driver's seat.`); // Front Left
+    alt.log(`Player is in the drivers seat.`); // Front Left
 }
 
 if (player.vehicle && player.seat === 0) {
